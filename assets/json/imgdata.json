@@ -1,0 +1,74 @@
+{
+    "content": [
+        {
+            "img": "./assets/IMG_0350-kopi.JPG",
+            "title": "Photo Collection 0350",
+            "description": "A beautiful captured moment from the photo collection."
+        },
+        {
+            "img": "./assets/IMG_0351-kopi.JPG",
+            "title": "Photo Collection 0351",
+            "description": "Another stunning image from the photography series."
+        },
+        {
+            "img": "./assets/IMG_0352-kopi.JPG",
+            "title": "Photo Collection 0352",
+            "description": "A memorable scene captured in this photograph."
+        },
+        {
+            "img": "./assets/IMG_0353-kopi.JPG",
+            "title": "Photo Collection 0353",
+            "description": "An artistic capture from the image collection."
+        },
+        {
+            "img": "./assets/IMG_0355-kopi.JPG",
+            "title": "Photo Collection 0355",
+            "description": "A unique perspective in this photographic piece."
+        },
+        {
+            "img": "./assets/IMG_0357-kopi.JPG",
+            "title": "Photo Collection 0357",
+            "description": "A striking visual from the photography portfolio."
+        },
+        {
+            "img": "./assets/IMG_0358-kopi.JPG",
+            "title": "Photo Collection 0358",
+            "description": "An expressive image from the collection."
+        },
+        {
+            "img": "./assets/IMG_0359-kopi.JPG",
+            "title": "Photo Collection 0359",
+            "description": "A captivating moment frozen in time."
+        },
+        {
+            "img": "./assets/IMG_2478-kopi.JPG",
+            "title": "Photo Series 2478",
+            "description": "A dynamic shot from the extended photo series."
+        },
+        {
+            "img": "./assets/IMG_2479-kopi.JPG",
+            "title": "Photo Series 2479",
+            "description": "An engaging visual from the photography collection."
+        },
+        {
+            "img": "./assets/IMG_2480-kopi.jpg",
+            "title": "Photo Series 2480",
+            "description": "A compelling image that tells its own story."
+        },
+        {
+            "img": "./assets/IMG_2483-kopi.JPG",
+            "title": "Photo Series 2483",
+            "description": "A thoughtful composition from the image gallery."
+        },
+        {
+            "img": "./assets/IMG_2484-kopi.jpg",
+            "title": "Photo Series 2484",
+            "description": "An evocative photograph from the collection."
+        },
+        {
+            "img": "./assets/IMG_2486-kopi.jpg",
+            "title": "Photo Series 2486",
+            "description": "The final piece in this photographic journey."
+        }
+    ]
+}

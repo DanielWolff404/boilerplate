@@ -1,12 +1,14 @@
-import Initialize from "./Initialize";
+import main from "./main";
 import "../css/style.scss";
 
 // **  IIFE: Immediately Invoked Function Expression  */
 
 (function () {
 
-  console.log("starting the cool->app");
+  
 
-  let init = new Initialize();
 
+  let app = new main();
+
+  console.log(app);
 })();
